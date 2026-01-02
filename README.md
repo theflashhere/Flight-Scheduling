@@ -1,6 +1,6 @@
-# Flight Scheduling & Delay Insights (BOM/DEL)
+# Flight Scheduling & Delay Insights 
 
-An AI-driven toolkit to analyze 1-week flight data (e.g., from Flightradar24/FlightAware) for **Mumbai (BOM)** and **Delhi (DEL)** and assist controllers/operators with:
+An AI-driven toolkit to analyze 1-week flight data (e.g., from Flightradar24/FlightAware) for multiple airports and assist controllers/operators with:
 - Best time to takeoff/land (based on scheduled vs. actual delays)
 - Busiest time slots to avoid
 - A "what-if" **scheduling simulator** (shift a flight time, estimate congestion & delay impact)
